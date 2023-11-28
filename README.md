@@ -1,6 +1,6 @@
 # Praktikum Dictionary
 >Tugas praktikum 6 Bahasa Pemrograman | Universitas Pelita Bangsa
-## PROFIL
+
 | Variable | Isi |
 | -------- | --- |
 | **Nama** | Gladis Toti Anggraini |
